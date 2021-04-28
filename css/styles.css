@@ -576,7 +576,7 @@ body {
   background-color: var(--btn-color-text);
   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
   border-radius: 4px;
-  transition: scale 5s linear, visibility 5s linear;
+  transition: scale 2s linear, visibility 2s linear;
 }
 
 .modal-btn {
